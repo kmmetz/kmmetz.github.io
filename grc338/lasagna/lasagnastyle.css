@@ -1,0 +1,41 @@
+/*CSS DOCUMENT*/
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 0;
+    color: rgb(128, 67, 62);
+}
+
+h2{
+    text-align: center;
+    font-size: 2em;
+    margin-top: 0;
+    color: rgb(128, 67, 62);
+}
+
+h3{
+    color:rgb(128, 67, 62);
+    font-size: 2em;
+    margin-bottom: 0;
+}
+.container{
+    margin-right: 15em;
+    margin-left: 15em;
+}
+
+.intro p{
+    font-family: sans-serif;
+    text-align:center;
+    font-style: italic;
+}
+
+li{
+    font-family: sans-serif;
+    line-height: 1.5em;
+}
+
+
+img {
+width: 100%;}
+
