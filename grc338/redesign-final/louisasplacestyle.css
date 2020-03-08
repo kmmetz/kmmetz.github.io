@@ -4,10 +4,8 @@ body{
     margin:0;
 }
 
-.logo{
-    font-family: 'Crimson Text', Bold;
-    font-size: 2.5em;
-    color:rgb(255,255,255);
+.logo img{
+    max-width:30em;
 }
 
 div.header{
