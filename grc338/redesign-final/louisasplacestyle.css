@@ -12,6 +12,7 @@ div.header{
     background:rgb(51,82,85);
     padding:2em;
     text-align: center;
+    max-height:20em;
 }
 
 .mainmenu{
